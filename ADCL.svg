@@ -57,15 +57,6 @@
     <linearGradient
        inkscape:collect="always"
        xlink:href="#linearGradient4545"
-       id="linearGradient4553"
-       x1="-782.54559"
-       y1="582.54364"
-       x2="273.45447"
-       y2="582.54364"
-       gradientUnits="userSpaceOnUse" />
-    <linearGradient
-       inkscape:collect="always"
-       xlink:href="#linearGradient4545"
        id="linearGradient4606"
        gradientUnits="userSpaceOnUse"
        x1="-782.54559"
@@ -99,6 +90,26 @@
        y1="582.54364"
        x2="273.45447"
        y2="582.54364" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient4545"
+       id="linearGradient867"
+       gradientUnits="userSpaceOnUse"
+       x1="-782.54559"
+       y1="582.54364"
+       x2="273.45447"
+       y2="582.54364"
+       gradientTransform="matrix(1.5968365,0,0,1.5968365,-189.14422,-328.85348)" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient4545"
+       id="linearGradient869"
+       gradientUnits="userSpaceOnUse"
+       x1="-782.54559"
+       y1="582.54364"
+       x2="273.45447"
+       y2="582.54364"
+       gradientTransform="matrix(1.5968365,0,0,1.5968365,-189.14422,-328.85348)" />
   </defs>
   <sodipodi:namedview
      pagecolor="#ffffff"
@@ -116,13 +127,23 @@
      inkscape:snap-global="true"
      inkscape:snap-bbox="true"
      inkscape:bbox-paths="true"
-     inkscape:zoom="0.19277778"
-     inkscape:cx="-439.82256"
-     inkscape:cy="979.31453"
+     inkscape:zoom="0.5452579"
+     inkscape:cx="-4.956534"
+     inkscape:cy="519.74668"
      inkscape:window-x="0"
      inkscape:window-y="27"
      inkscape:window-maximized="1"
-     inkscape:current-layer="svg10" />
+     inkscape:current-layer="svg10"
+     showguides="true"
+     inkscape:guide-bbox="true"
+     inkscape:object-paths="true"
+     inkscape:snap-intersection-paths="true">
+    <sodipodi:guide
+       position="-333.63574,400"
+       orientation="1,0"
+       id="guide865"
+       inkscape:locked="false" />
+  </sodipodi:namedview>
   <!-- Created per specification at http://www.50states.com/flag/coflag.htm by Robert Fleming -->
   <rect
      width="3363.9758"
@@ -150,21 +171,17 @@
      r="200"
      fill="gold"
      id="circle8" />
+  <path
+     inkscape:connector-curvature="0"
+     id="path860"
+     style="font-style:italic;font-weight:bold;font-size:682.66668701px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:url(#linearGradient867);fill-opacity:1;stroke:none;stroke-width:0.2;stroke-miterlimit:4;stroke-dasharray:none"
+     d="M -908.59182,853.93976 H -1225.83 l -78.7773,144.77985 h -210.2501 l 449.2433,-794.69232 h 234.20271 l 140.52161,794.69232 H -885.70383 Z M -1148.6496,709.6922 h 213.44384 l -47.9051,-306.06035 z" />
+  <path
+     inkscape:connector-curvature="0"
+     id="path862"
+     style="font-style:italic;font-weight:bold;font-size:682.66668701px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:url(#linearGradient869);fill-opacity:1;stroke:none;stroke-width:0.2;stroke-miterlimit:4;stroke-dasharray:none"
+     d="m -246.96917,358.92043 -95.27791,484.90604 h 73.45448 q 143.18301,0 226.750787,-80.37411 83.567779,-80.3741 83.567779,-217.16977 0,-92.61652 -54.824714,-139.98934 -54.292451,-47.37282 -161.812782,-47.37282 z M -422.6212,204.02729 h 215.57294 q 154.36087,0 231.541298,18.62977 77.180442,18.09747 128.279212,61.21206 51.63104,43.11458 77.71271,104.85893 26.08166,61.21206 26.08166,138.92478 0,108.05261 -44.71142,203.8628 -44.17915,95.27791 -124.553249,160.21594 -70.260806,58.01838 -163.409611,82.50322 -92.61652,24.48482 -285.30146,24.48482 h -216.10522 z" />
   <flowRoot
-     xml:space="preserve"
-     id="flowRoot3722"
-     style="font-style:normal;font-weight:normal;font-size:40px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:url(#linearGradient4553);fill-opacity:1.0;stroke:none"
-     transform="matrix(1.5968365,0,0,1.5968365,-189.14422,-328.85348)"><flowRegion
-       id="flowRegion3724"
-       style="fill-opacity:1.0;fill:url(#linearGradient4553)"><rect
-         id="rect3726"
-         width="1226.8011"
-         height="832.56482"
-         x="-785.87897"
-         y="227.37752"
-         style="fill-opacity:1.0;fill:url(#linearGradient4553)" /></flowRegion><flowPara
-       id="flowPara3728"
-       style="font-weight:bold;font-size:682.66668701px;fill-opacity:1;fill:url(#linearGradient4553);font-style:italic">AD</flowPara></flowRoot>  <flowRoot
      xml:space="preserve"
      id="flowRoot3730"
      style="fill:black;fill-opacity:1;stroke:none;font-family:sans-serif;font-style:normal;font-weight:normal;font-size:40px;line-height:1.25;letter-spacing:0px;word-spacing:0px"><flowRegion
@@ -174,7 +191,7 @@
          height="137.46397"
          x="-977.80981"
          y="217.00288" /></flowRegion><flowPara
-       id="flowPara3736"></flowPara></flowRoot>  <flowRoot
+       id="flowPara3736" /></flowRoot>  <flowRoot
      transform="matrix(1.5968365,0,0,1.5968365,2388.9538,-328.85348)"
      style="font-style:normal;font-weight:normal;font-size:40px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:url(#linearGradient4612);fill-opacity:1;stroke:none"
      id="flowRoot4602"
