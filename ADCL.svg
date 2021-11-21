@@ -29,6 +29,33 @@
   </metadata>
   <defs
      id="defs14">
+    <inkscape:path-effect
+       effect="spiro"
+       id="path-effect4587"
+       is_visible="false" />
+    <inkscape:path-effect
+       effect="vonkoch"
+       id="path-effect881"
+       is_visible="false"
+       ref_path="m -1514.8574,601.37345 h 833.96762"
+       generator="m -1514.8574,998.71961 h 277.9892 m 277.98921,0 h 277.98921"
+       similar_only="false"
+       nbgenerations="1"
+       drawall="true"
+       maxComplexity="1000" />
+    <inkscape:path-effect
+       effect="ruler"
+       id="path-effect879"
+       is_visible="true"
+       unit="px"
+       mark_distance="20"
+       mark_length="14"
+       minor_mark_length="7"
+       major_mark_steps="5"
+       shift="0"
+       offset="0"
+       mark_dir="left"
+       border_marks="both" />
     <linearGradient
        id="linearGradient4551"
        osb:paint="solid">
@@ -54,24 +81,6 @@
        x2="1130.81"
        y2="600"
        gradientUnits="userSpaceOnUse" />
-    <linearGradient
-       inkscape:collect="always"
-       xlink:href="#linearGradient4545"
-       id="linearGradient4606"
-       gradientUnits="userSpaceOnUse"
-       x1="-782.54559"
-       y1="582.54364"
-       x2="273.45447"
-       y2="582.54364" />
-    <linearGradient
-       inkscape:collect="always"
-       xlink:href="#linearGradient4545"
-       id="linearGradient4608"
-       gradientUnits="userSpaceOnUse"
-       x1="-782.54559"
-       y1="582.54364"
-       x2="273.45447"
-       y2="582.54364" />
     <linearGradient
        inkscape:collect="always"
        xlink:href="#linearGradient4545"
@@ -110,6 +119,36 @@
        x2="273.45447"
        y2="582.54364"
        gradientTransform="matrix(1.5968365,0,0,1.5968365,-189.14422,-328.85348)" />
+    <marker
+       id="Arrow2Sstart"
+       inkscape:isstock="true"
+       inkscape:stockid="Arrow2Sstart"
+       orient="auto"
+       refX="0"
+       refY="0"
+       style="overflow:visible">
+      <path
+         d="M 8.72,4.03 -2.21,0.02 8.72,-4 c -1.75,2.37 -1.74,5.62 0,8.03 z"
+         id="Arrow2SstartPath"
+         style="fill:#000000;fill-opacity:1;stroke:#000000;stroke-opacity:1"
+         transform="matrix(0.3,0,0,0.3,-0.69,0)"
+         inkscape:connector-curvature="0" />
+    </marker>
+    <marker
+       id="Arrow2Send"
+       inkscape:isstock="true"
+       inkscape:stockid="Arrow2Send"
+       orient="auto"
+       refX="0"
+       refY="0"
+       style="overflow:visible">
+      <path
+         d="M 8.72,4.03 -2.21,0.02 8.72,-4 c -1.75,2.37 -1.74,5.62 0,8.03 z"
+         id="Arrow2SendPath"
+         style="fill:#000000;fill-opacity:1;stroke:#000000;stroke-opacity:1"
+         transform="matrix(-0.3,0,0,-0.3,0.69,0)"
+         inkscape:connector-curvature="0" />
+    </marker>
   </defs>
   <sodipodi:namedview
      pagecolor="#ffffff"
@@ -127,9 +166,9 @@
      inkscape:snap-global="true"
      inkscape:snap-bbox="true"
      inkscape:bbox-paths="true"
-     inkscape:zoom="0.5452579"
-     inkscape:cx="-4.956534"
-     inkscape:cy="519.74668"
+     inkscape:zoom="0.25"
+     inkscape:cx="-183.94851"
+     inkscape:cy="652.20023"
      inkscape:window-x="0"
      inkscape:window-y="27"
      inkscape:window-maximized="1"
@@ -137,11 +176,52 @@
      showguides="true"
      inkscape:guide-bbox="true"
      inkscape:object-paths="true"
-     inkscape:snap-intersection-paths="true">
+     inkscape:snap-intersection-paths="true"
+     inkscape:snap-to-guides="true">
     <sodipodi:guide
        position="-333.63574,400"
        orientation="1,0"
        id="guide865"
+       inkscape:locked="false" />
+    <sodipodi:guide
+       position="-255.04079,800"
+       orientation="1,0"
+       id="guide875"
+       inkscape:locked="false" />
+    <sodipodi:guide
+       position="41.517076,654.71919"
+       orientation="0.98123792,-0.19280081"
+       id="guide877"
+       inkscape:locked="false" />
+    <sodipodi:guide
+       position="-1057.9283,658.04009"
+       orientation="0.8795854,-0.47574104"
+       id="guide4930"
+       inkscape:locked="false" />
+    <sodipodi:guide
+       position="-956.2124,624.51691"
+       orientation="0.98797106,0.15463889"
+       id="guide4932"
+       inkscape:locked="false" />
+    <sodipodi:guide
+       position="-1058,317"
+       orientation="0,1"
+       id="guide4934"
+       inkscape:locked="false" />
+    <sodipodi:guide
+       position="-1057,517.5"
+       orientation="0,1"
+       id="guide4938"
+       inkscape:locked="false" />
+    <sodipodi:guide
+       position="1413.0077,463.11438"
+       orientation="0.98157285,-0.1910883"
+       id="guide4943"
+       inkscape:locked="false" />
+    <sodipodi:guide
+       position="1736.3448,278.92585"
+       orientation="0.9826035,-0.18571583"
+       id="guide4945"
        inkscape:locked="false" />
   </sodipodi:namedview>
   <!-- Created per specification at http://www.50states.com/flag/coflag.htm by Robert Fleming -->
@@ -175,12 +255,14 @@
      inkscape:connector-curvature="0"
      id="path860"
      style="font-style:italic;font-weight:bold;font-size:682.66668701px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:url(#linearGradient867);fill-opacity:1;stroke:none;stroke-width:0.2;stroke-miterlimit:4;stroke-dasharray:none"
-     d="M -908.59182,853.93976 H -1225.83 l -78.7773,144.77985 h -210.2501 l 449.2433,-794.69232 h 234.20271 l 140.52161,794.69232 H -885.70383 Z M -1148.6496,709.6922 h 213.44384 l -47.9051,-306.06035 z" />
+     d="m -908.07934,883 h -334.30716 l -62.5893,115.71961 h -236.2501 l 449.6118,-794.69232 h 270.20271 l 140.52161,794.69232 H -889.96671 Z M -1133.9422,682.5 h 194.48027 l -43.64893,-278.86815 z"
+     sodipodi:nodetypes="ccccccccccccc" />
   <path
      inkscape:connector-curvature="0"
      id="path862"
      style="font-style:italic;font-weight:bold;font-size:682.66668701px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:url(#linearGradient869);fill-opacity:1;stroke:none;stroke-width:0.2;stroke-miterlimit:4;stroke-dasharray:none"
-     d="m -246.96917,358.92043 -95.27791,484.90604 h 73.45448 q 143.18301,0 226.750787,-80.37411 83.567779,-80.3741 83.567779,-217.16977 0,-92.61652 -54.824714,-139.98934 -54.292451,-47.37282 -161.812782,-47.37282 z M -422.6212,204.02729 h 215.57294 q 154.36087,0 231.541298,18.62977 77.180442,18.09747 128.279212,61.21206 51.63104,43.11458 77.71271,104.85893 26.08166,61.21206 26.08166,138.92478 0,108.05261 -44.71142,203.8628 -44.17915,95.27791 -124.553249,160.21594 -70.260806,58.01838 -163.409611,82.50322 -92.61652,24.48482 -285.30146,24.48482 h -216.10522 z" />
+     d="m -255.04079,400 -78.59495,400 h 73.45448 c 92.00966,0 156.70756,-9.34934 203.482523,-44.41918 C -9.9237762,720.51098 18.92824,659.72063 39.246118,556.8386 52.625849,488.22046 32.26286,447.90732 -13.291847,426.45701 -69.479433,400 -128.10863,399.33509 -183.18315,400 Z M -422.6212,204.02729 h 215.57294 c 102.90725,0 180.087679,6.20992 231.541298,18.62977 51.453628,12.06498 94.213362,32.469 128.279212,61.21206 34.42069,28.74305 60.32493,63.69603 77.71271,104.85893 17.38777,40.80804 26.08166,87.1163 26.08166,138.92478 0,72.03507 -14.90381,139.98934 -44.71142,203.8628 -29.45277,63.51861 -70.97052,116.92392 -124.553249,160.21594 -46.840537,38.67892 -101.310408,66.17999 -163.409611,82.50322 -61.74435,16.32321 -156.84483,24.48482 -285.30146,24.48482 h -216.10522 z"
+     sodipodi:nodetypes="cccscscccscccscccscc" />
   <flowRoot
      xml:space="preserve"
      id="flowRoot3730"
@@ -191,18 +273,26 @@
          height="137.46397"
          x="-977.80981"
          y="217.00288" /></flowRegion><flowPara
-       id="flowPara3736" /></flowRoot>  <flowRoot
+       id="flowPara3736" /></flowRoot>  <g
+     aria-label="L"
      transform="matrix(1.5968365,0,0,1.5968365,2388.9538,-328.85348)"
      style="font-style:normal;font-weight:normal;font-size:40px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:url(#linearGradient4612);fill-opacity:1;stroke:none"
-     id="flowRoot4602"
-     xml:space="preserve"><flowRegion
-       style="fill:url(#linearGradient4608);fill-opacity:1"
-       id="flowRegion4598"><rect
-         style="fill:url(#linearGradient4606);fill-opacity:1"
-         y="227.37752"
-         x="-785.87897"
-         height="832.56482"
-         width="1226.8011"
-         id="rect4596" /></flowRegion><flowPara
-       style="font-weight:bold;font-size:682.66668701px;fill:url(#linearGradient4616);fill-opacity:1;font-style:italic"
-       id="flowPara4600">L</flowPara></flowRoot></svg>
+     id="flowRoot4602">
+    <path
+       d="m -674.54557,333.71029 h 128.33334 l -72.65697,373.22087 h 224.51103 l -23.52073,124.44581 h -353.66667 z"
+       style="font-style:italic;font-weight:bold;font-size:682.66668701px;fill:url(#linearGradient4616);fill-opacity:1"
+       id="path4940"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="ccccccc" />
+  </g>
+  <flowRoot
+     xml:space="preserve"
+     id="flowRoot4647"
+     style="fill:black;fill-opacity:1;stroke:none;font-family:sans-serif;font-style:normal;font-weight:normal;font-size:40px;line-height:1.25;letter-spacing:0px;word-spacing:0px"><flowRegion
+       id="flowRegion4649"><rect
+         id="rect4651"
+         width="137.54959"
+         height="71.525787"
+         x="-856.47546"
+         y="572.77386" /></flowRegion><flowPara
+       id="flowPara4653"></flowPara></flowRoot></svg>
