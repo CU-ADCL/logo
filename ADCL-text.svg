@@ -13,7 +13,7 @@
    height="1200"
    version="1.1"
    id="svg10"
-   sodipodi:docname="ADCL.svg"
+   sodipodi:docname="ADCL-text.svg"
    inkscape:version="0.92.5 (2060ec1f9f, 2020-04-08)">
   <metadata
      id="metadata16">
@@ -29,6 +29,14 @@
   </metadata>
   <defs
      id="defs14">
+    <linearGradient
+       id="linearGradient1050"
+       osb:paint="solid">
+      <stop
+         style="stop-color:#000000;stop-opacity:1;"
+         offset="0"
+         id="stop1048" />
+    </linearGradient>
     <marker
        inkscape:isstock="true"
        style="overflow:visible"
@@ -500,6 +508,16 @@
        y1="582.98157"
        x2="528.70001"
        y2="582.98157" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient4951"
+       id="linearGradient1107"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="translate(0,-14)"
+       x1="-1556.1375"
+       y1="1133.9177"
+       x2="1732.1594"
+       y2="1133.9177" />
   </defs>
   <sodipodi:namedview
      pagecolor="#ffffff"
@@ -518,7 +536,7 @@
      inkscape:snap-bbox="true"
      inkscape:bbox-paths="true"
      inkscape:zoom="0.35355339"
-     inkscape:cx="847.36275"
+     inkscape:cx="1949.8505"
      inkscape:cy="348.01154"
      inkscape:window-x="3512"
      inkscape:window-y="0"
@@ -788,5 +806,16 @@
        d="m -1237.8095,592.32834 c 0.86,-0.1733 4.49,-0.7108 8.0667,-1.19448 3.5768,-0.48373 6.5707,-0.94686 6.653,-1.02921 0.246,-0.24599 10.439,-57.34948 10.439,-58.48154 0,-0.98967 0.9193,-1.0422 18.0516,-1.03167 l 18.0517,0.0111 22.2773,25.71609 22.2772,25.71609 13.4959,-0.56859 c 7.984,-0.33631 13.57,-0.80076 13.6773,-1.13708 0.1,-0.31273 6.3247,-29.47969 13.8335,-64.81546 7.5087,-35.33582 13.7849,-64.82259 13.9473,-65.52619 l 0.2949,-1.27924 h 30.6178 30.6179 l 36.13777,66.37901 36.13784,66.37901 14.67927,0.36608 c 39.59052,0.98733 71.1733,6.12459 88.78132,14.44131 15.61609,7.37583 16.37164,13.68694 2.47515,20.67396 -18.36622,9.23437 -50.1691,14.66446 -92.44702,15.7847 l -13.72948,0.36377 -35.87353,66.00702 -35.87352,66.00697 -30.7327,0.14703 c -28.9103,0.13829 -30.7498,0.0877 -31.0211,-0.85284 -0.1587,-0.5499 -6.4929,-30.22816 -14.0759,-65.95167 l -13.7874,-64.95174 -1.7414,-0.26166 c -0.9578,-0.14387 -7.2423,-0.40697 -13.9655,-0.58466 l -12.224,-0.32309 -21.8623,25.25231 -21.8625,25.25228 -8.2711,0.33129 c -4.5491,0.1822 -12.602,0.40052 -17.8953,0.48521 l -9.6242,0.15394 -5.2373,-29.77669 c -3.0785,-17.50291 -5.5227,-29.95302 -5.9295,-30.20448 -0.3808,-0.2353 -2.1361,-0.59033 -3.901,-0.789 -1.7647,-0.19863 -5.1913,-0.64385 -7.6149,-0.98937 l -4.4063,-0.62825 v -14.38763 -14.38763 z"
        id="path8369"
        inkscape:connector-curvature="0" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:40px;line-height:1.25;font-family:sans-serif;letter-spacing:25px;word-spacing:0px;fill:url(#linearGradient1107);fill-opacity:1;stroke:none"
+       x="-1556.8875"
+       y="1146.4021"
+       id="text1046"><tspan
+         sodipodi:role="line"
+         id="tspan1044"
+         x="-1556.8875"
+         y="1146.4021"
+         style="font-size:96px;letter-spacing:25px;word-spacing:20px;fill:url(#linearGradient1107);fill-opacity:1">Autonomous Decision and Control Laboratory</tspan></text>
   </g>
 </svg>
