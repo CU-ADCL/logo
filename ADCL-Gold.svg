@@ -436,7 +436,7 @@
        gradientTransform="translate(1623.9769)" />
     <linearGradient
        inkscape:collect="always"
-       xlink:href="#linearGradient1077"
+       xlink:href="#linearGradient1095"
        id="linearGradient1097"
        x1="560"
        y1="600"
@@ -577,19 +577,19 @@
      inkscape:pageopacity="0"
      inkscape:pageshadow="2"
      inkscape:window-width="2560"
-     inkscape:window-height="1376"
+     inkscape:window-height="1403"
      id="namedview12"
      showgrid="false"
      inkscape:snap-global="true"
      inkscape:snap-bbox="true"
      inkscape:bbox-paths="true"
-     inkscape:zoom="0.25"
-     inkscape:cx="1044.8814"
-     inkscape:cy="-158.39515"
-     inkscape:window-x="952"
-     inkscape:window-y="27"
+     inkscape:zoom="0.35355339"
+     inkscape:cx="1779.4243"
+     inkscape:cy="300.50912"
+     inkscape:window-x="3512"
+     inkscape:window-y="0"
      inkscape:window-maximized="1"
-     inkscape:current-layer="layer4"
+     inkscape:current-layer="svg10"
      showguides="false"
      inkscape:guide-bbox="true"
      inkscape:object-paths="true"
@@ -659,11 +659,11 @@
      y="0"
      style="fill:url(#linearGradient1067);fill-opacity:1" />
   <rect
-     width="3423.9761"
+     width="2289.7766"
      height="400"
      y="400"
      id="rect4"
-     x="0"
+     x="650.53821"
      style="fill:url(#linearGradient1091);fill-opacity:1;stroke:none;stroke-width:50;stroke-miterlimit:4;stroke-dasharray:none" />
   <!-- 76 + 180*sqrt(55)/36 ~= 113.1 -->
   <flowRoot
