@@ -13,7 +13,7 @@
    height="1200"
    version="1.1"
    id="svg10"
-   sodipodi:docname="ADCL-Gold.svg"
+   sodipodi:docname="ADCL-Gold-Gray.svg"
    inkscape:version="0.92.5 (2060ec1f9f, 2020-04-08)">
   <metadata
      id="metadata16">
@@ -287,7 +287,7 @@
     </linearGradient>
     <linearGradient
        inkscape:collect="always"
-       xlink:href="#linearGradient1059"
+       xlink:href="#linearGradient1089"
        id="linearGradient4547"
        x1="360.00009"
        y1="600"
@@ -619,7 +619,7 @@
        y2="600" />
     <linearGradient
        inkscape:collect="always"
-       xlink:href="#linearGradient4551"
+       xlink:href="#linearGradient1059"
        id="linearGradient1018"
        gradientUnits="userSpaceOnUse"
        gradientTransform="translate(-44.545004,1.5605469e-5)"
