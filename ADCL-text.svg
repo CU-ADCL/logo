@@ -233,7 +233,7 @@
        x2="1130.8101"
        y2="600"
        gradientUnits="userSpaceOnUse"
-       gradientTransform="translate(-16.545069)" />
+       gradientTransform="translate(-46.545069)" />
     <linearGradient
        inkscape:collect="always"
        xlink:href="#linearGradient4545"
@@ -322,7 +322,7 @@
        x2="1130.8101"
        y2="600"
        gradientUnits="userSpaceOnUse"
-       gradientTransform="translate(-16.545069)" />
+       gradientTransform="translate(-46.545069)" />
     <style
        id="style6"
        type="text/css">
@@ -361,7 +361,7 @@
        y1="600"
        x2="1130.8101"
        y2="600"
-       gradientTransform="translate(-16.545069)" />
+       gradientTransform="translate(-46.545069)" />
     <linearGradient
        inkscape:collect="always"
        xlink:href="#linearGradient5075"
@@ -528,18 +528,18 @@
      guidetolerance="10"
      inkscape:pageopacity="0"
      inkscape:pageshadow="2"
-     inkscape:window-width="2560"
-     inkscape:window-height="1403"
+     inkscape:window-width="1920"
+     inkscape:window-height="1016"
      id="namedview12"
      showgrid="false"
      inkscape:snap-global="true"
      inkscape:snap-bbox="true"
      inkscape:bbox-paths="true"
-     inkscape:zoom="0.35355339"
-     inkscape:cx="1949.8505"
-     inkscape:cy="348.01154"
-     inkscape:window-x="3512"
-     inkscape:window-y="0"
+     inkscape:zoom="0.25"
+     inkscape:cx="1492.2216"
+     inkscape:cy="682.30621"
+     inkscape:window-x="0"
+     inkscape:window-y="27"
      inkscape:window-maximized="1"
      inkscape:current-layer="layer4"
      showguides="false"
@@ -689,7 +689,7 @@
        inkscape:connector-curvature="0"
        style="display:inline;fill:url(#linearGradient5087);fill-opacity:1;stroke:url(#linearGradient4992);stroke-width:35;stroke-miterlimit:4;stroke-dasharray:none"
        id="path4986"
-       d="m 1114.2649,750 a 400,400 0 1 1 0,-300 L 743.45493,600 Z" />
+       d="m 1084.2649,750 a 400,400 0 1 1 0,-300 L 713.45493,600 Z" />
     <path
        inkscape:connector-curvature="0"
        id="path860"
@@ -703,7 +703,7 @@
        d="m -271.58586,400 -78.59495,400 h 73.45448 c 92.00966,0 156.70756,-9.34934 203.482524,-44.41918 C -26.468845,720.51098 2.383171,659.72063 22.701049,556.8386 36.08078,488.22046 15.717791,447.90732 -29.836916,426.45701 -86.024502,400 -144.6537,399.33509 -199.72822,400 Z M -439.16627,204.02729 h 215.57294 c 102.90725,0 180.08768,6.20992 231.541299,18.62977 51.453628,12.06498 94.213361,32.469 128.279211,61.21206 34.42069,28.74305 60.32493,63.69603 77.71271,104.85893 17.38777,40.80804 26.08166,87.1163 26.08166,138.92478 0,72.03507 -14.90381,139.98934 -44.71142,203.8628 -29.45277,63.51861 -70.97052,116.92392 -124.553248,160.21594 -46.840537,38.67892 -101.310408,66.17999 -163.409611,82.50322 -61.744351,16.32321 -156.844831,24.48482 -285.301461,24.48482 h -216.10522 z"
        sodipodi:nodetypes="cccscscccscccscccscc" />
     <path
-       d="m 1114.2649,750 a 400,400 0 1 1 0,-300 L 743.45493,600 Z"
+       d="m 1084.2649,750 a 400,400 0 1 1 0,-300 L 713.45493,600 Z"
        id="path6"
        style="fill:url(#linearGradient4547);fill-opacity:1"
        inkscape:connector-curvature="0" />
@@ -715,7 +715,7 @@
        sodipodi:nodetypes="ccccccc" />
     <circle
        style="fill:#ffd700"
-       cx="743.45496"
+       cx="713.45496"
        cy="600"
        r="200"
        id="circle8" />
